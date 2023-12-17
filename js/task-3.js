@@ -1,3 +1,5 @@
+"use strict"
+
 function getElementWidth(content, padding, border) {
     //2 ways resolving the task
     //1-st
